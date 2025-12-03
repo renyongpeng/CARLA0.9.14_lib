@@ -1,4 +1,4 @@
-CmakeList文件内容：
+CMakeList文件内容：
 请把下面的内容合理的添加到你的CmakeList.txt当中去：
 
 cmake_minimum_required(VERSION 3.26)
